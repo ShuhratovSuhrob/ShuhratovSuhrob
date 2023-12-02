@@ -1,0 +1,1 @@
+Hello, my name is Shuhratov Suhrob 18 y.o. I have been interested in programming and coding for a long time, and learning for 2-3 years on my own. I study at ITPU university as a freshman student. I am good at HTML, CSS, and i am learning how to code in JAVA now. 
